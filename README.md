@@ -1,13 +1,7 @@
 # Instructions  
 
-1. Create a method called _everyOther()_</br>
-It takes in a String as a parameter.</br>
-Return a String array with every other word from the sentence.</br>
+1. Create a method called _stringSwap()_. It will take a String array and two integers as parameters. Swap the two values in the array at the indexes provided by the parameters. Return nothing.
 
-2. Create a function called _getWord()_</br>
-It take in a String and an integer as parameters.</br>
-Return the Nth word in the String where N is the provided integer.</br>
+2. Create a method called _reverse()_. It will take in a integer array. Reverse the array. Return nothing.
 
-3. Create a function called _countWords()_</br>
-It takes in a String and a character as parameters.</br>
-Return how many words in the string contain the letter.</br>
+3. Create a method called _toWordArray()_. It will take in a String and return a String array with each word in its own index. Remove all empty Strings.
